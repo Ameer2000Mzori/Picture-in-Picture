@@ -18,7 +18,7 @@
 
 # 📖 My Portafolio <a name="about-project"></a>
 
-> This is my website portfolio, made with HTML, CSS, and JavaScript. and it's a multi-page responsive website. it's a whole website made for desktop and mobile versions.
+> Picture-in-Picture website that can help you minimize any video on social media and work as normal. This project is built with HTML, CSS, and JavaScript, using the Picture-in-Picture API.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -31,7 +31,6 @@
         <li><a href="https://en.wikipedia.org/wiki/CSS">Css</a></li>
         <li><a href="https://nl.wikipedia.org/wikiJavaScript">Javascript</a></li>
         <li><a href="https://stylelint.io/">Html/CSS Linters</a></li>
-        <li><a href="https://webpack.js.org/">WEB PACK</a></li>
   </ul>
 </details>
 
