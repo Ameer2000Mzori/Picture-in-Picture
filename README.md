@@ -16,7 +16,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 My Portafolio <a name="about-project"></a>
+# 📖 Picture-in-Picture <a name="about-project"></a>
 
 > Picture-in-Picture website that can help you minimize any video on social media and work as normal. This project is built with HTML, CSS, and JavaScript, using the Picture-in-Picture API.
 
